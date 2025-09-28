@@ -1,6 +1,6 @@
 # 📘 Guia de Instalação e Configuração do Projeto PHP/Laravel
 
-Este documento descreve as etapas necessárias para instalar, configurar e executar um projeto desenvolvido em **PHP/Laravel**.
+Este documento descreve as etapas necessárias para instalar, configurar e executar um projeto desenvolvido em **PHP/Laravel** e **VueJs 3**. É um projeto pequeno, porém, foram adotadas as melhores práticas de desenvolvimento e convenções.
 
 ---
 
